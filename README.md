@@ -15,3 +15,4 @@ These are the steps to setup a google cloud instance.
 2) Go to the console and create a project.
 3) Create an instance. Follow the instructions [here](https://cloud.google.com/compute/docs/instances/connecting-to-instance#sshingcloud)
 4) You should now have an instance with a public IP. Use `ssh USERNAME@external_ip ` to ssh into the virtual machine.
+5) Follow the instructions [here](https://cloud.google.com/ml-engine/docs/quickstarts/command-line#verify_the_google_cloud_sdk_components) to do the basic setup and install tensorflow.
